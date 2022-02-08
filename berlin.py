@@ -1562,7 +1562,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🤖 Zinda Hu Baby!\n`{ms}` 𝗺𝘀\n          ♛ 𝘽𝙀𝙍𝙇𝙄𝙉 𝙎𝙋𝘼𝙈𝘽𝙊𝙏 ♛")
+        await event.edit(f"𝙃𝙀𝙔𝙔 𝙄'𝙈 𝘼𝙇𝙄𝙑𝙀\n`{ms}` 𝗺𝘀\n          𝐔𝐑𝐀𝐍𝐈𝐔𝐌 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓")
 
 
 
