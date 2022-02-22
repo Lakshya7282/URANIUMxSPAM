@@ -83,7 +83,7 @@ str30 = ""
 
 que = {}
 
-SMEX_USERS = []
+SMEX_USERS = [5212265478]
 for x in SUDO:
     SMEX_USERS.append(x)
     
