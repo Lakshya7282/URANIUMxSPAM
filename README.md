@@ -1,1 +1,1 @@
-https://dashboard.heroku.com/new-app?template=https://github.com/TEAM-LYNX-OP/URANIUMxSPAM
+https://github.com/Lakshya7282/URANIUMxSPAM/blob/main/URANIUM.py
