@@ -250,7 +250,7 @@ async def start_yukki():
         try:
             print("Booting Up The Client 6")
             await str6.start()
-            await str6(functions.channels.JoinChannelRequest(channel="@BERLINGODSPAM"))
+            await str6(functions.channels.JoinChannelRequest(channel="@ANSHUL_LOGO"))
             await str6(functions.channels.JoinChannelRequest(channel="@BERLISPAM"))
             botme = await str6.get_me()
             botid = telethon.utils.get_peer_id(botme)
