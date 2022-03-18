@@ -126,8 +126,8 @@ async def start_yukki():
             print("Booting Up The Client 1")
             await str1.start()
             botme = await str1.get_me()
-            await str1(functions.channels.JoinChannelRequest(channel="@BERLINGODSPAM"))
-            await str1(functions.channels.JoinChannelRequest(channel="@BERLISPAM"))
+            await str1(functions.channels.JoinChannelRequest(channel="@ANSHUL_LOGO"))
+            await str1(functions.channels.JoinChannelRequest(channel="@ANSHUL_LOGO"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -1774,7 +1774,7 @@ text = """𝗔𝗡𝗦𝗛𝗨𝗟 𝗦𝗣𝗔𝗠𝗕𝗢𝗧"""
 
 print(text)
 print("")
-print("SMEX! URANIUM 𝗦𝗣𝗔𝗠𝗕𝗢𝗧 STARTED.")
+print("SMEX! ANSHUL 𝗦𝗣𝗔𝗠𝗕𝗢𝗧 STARTED.")
 if len(sys.argv) not in (1, 3, 4):
     try:
         str1.disconnect()
